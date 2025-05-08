@@ -1,0 +1,12 @@
+
+.bangsinhvien{
+    color: white; /* Màu chữ */
+    background-color: #007bff; /* Màu nền */
+    border: 2px solid black; /* Màu viền */
+}
+
+.bangsinhvien th, .bangsinhvien td {
+    border: 1px solid black; /* Viền bên trong bảng */
+    text-align: center;
+    padding: 10px;
+}

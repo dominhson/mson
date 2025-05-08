@@ -1,0 +1,8 @@
+
+.HVT {
+
+    display: flex;
+    justify-content: center; /* Căn giữa ngang */
+    align-items: center; /* Căn giữa dọc */
+    height: 100vh; /* Để div chiếm toàn bộ chiều cao màn hình */
+}
